@@ -5,5 +5,6 @@ I just wanted to see if any valuable insights could be derived by analysing my f
 The dataset used for this purpose is obtained from Kaggle - https://www.kaggle.com/datasets/irkaal/english-premier-league-results. The dataset contains the Premier League Results along with a lot of game analysis from the 1993-94 Season until the 2021-22 Season.
 
 
+<img src="Chelsea_FC_Analysis.png" alt="Employee data" title="Employee Data title">
 
 
